@@ -1,6 +1,7 @@
 # AgentS
 A Simple and Scalable LLM Chat Agent System
-AgentS（Sphere / System  / Smart / Simple / Scalable / Swift）
+
+Agent**S**（Sphere / System  / Smart / Simple / Scalable / Swift）
 
 ## Target 
 1. 能够保持对话记忆，以及持久化的用户背景和偏好。
